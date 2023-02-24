@@ -1,0 +1,7 @@
+
+table,tr,th,td{
+    border: 2px;
+    border-spacing: 6px;
+    background-color: blue;
+    border-style: dotted;
+}

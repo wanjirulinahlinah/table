@@ -1,0 +1,15 @@
+#image{
+    float: left;
+    height: 800px;
+}
+body{
+    text-align: center;
+    background-repeat: no-repeat;
+    background-color: white;
+
+}
+
+input{
+  padding: o 4rem;
+
+}

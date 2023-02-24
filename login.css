@@ -1,0 +1,9 @@
+#image{
+    float: right;
+    height: 600px;
+}
+ body{
+    text-align: center;
+    background-repeat: no-repeat;
+    background-color: azure(190, 240, 240);
+ }
